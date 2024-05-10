@@ -4,3 +4,7 @@ Classificaiton the 22 classses of Dombyra (Kazakh national musical instrument) c
 
 Link to the dataset: 
 https://drive.google.com/drive/folders/17pnC6VWnnQk8wr58NKsIX6GmeVf6fGbl?usp=sharing
+
+
+PCA visualization of classes
+![newplot](https://github.com/byergesh/Dombyra-Chords-Classification/assets/91945196/48c4f61c-782e-4e0b-bd46-384d2d4ae043)
