@@ -6,5 +6,16 @@ Link to the dataset:
 https://drive.google.com/drive/folders/17pnC6VWnnQk8wr58NKsIX6GmeVf6fGbl?usp=sharing
 
 
-PCA visualization of classes
+PCA visualization of classes:
 ![newplot](https://github.com/byergesh/Dombyra-Chords-Classification/assets/91945196/48c4f61c-782e-4e0b-bd46-384d2d4ae043)
+
+
+Analysis through MFCC(feature extraction from sound) + Traditional ML models:
+
+  - MFCC+kNN methods with RandomOversamper() with python built in function showed the best results
+  - best accuracy ~97%
+
+Analysis through ResNet architecture form pytorch library:
+  - Mel Spectrogram Images were extracted from sound files all classes
+  - Pretrained resnet18 and resnet50 were used for image processing task
+  - The best accuracy were taken using resnet18 architecture (~98%)
