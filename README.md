@@ -19,3 +19,4 @@ Analysis through ResNet architecture form pytorch library:
   - Mel Spectrogram Images were extracted from sound files all classes
   - Pretrained resnet18 and resnet50 were used for image processing task
   - The best accuracy were taken using resnet18 architecture (~98%)
+![Без названия](https://github.com/byergesh/Dombyra-Chords-Classification/assets/91945196/af7c0e3f-9246-4317-913c-c936fc7ed3d8)
